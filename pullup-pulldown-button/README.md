@@ -12,7 +12,8 @@ Bu proje, Arduino ile buton kullanımı ve dijital giriş pinlerinin doğru şek
   <li>Jumper kabloları</li>
   <li>Breadboard (devreyi kurmak için)</li>
 </ul>
-
-<h2>Devre Şeması</h2>
+<h2>Devre Simülasyon Linki</h2>
+<p>https://www.tinkercad.com/things/gvVTYGgd9HT-pulldown-ve-pullup-button?sharecode=MztYRnfg32mGWMnbdq1qW9yRUDuG9CA0tX3WnAmHYHw</p>
+<h3>Devre Şeması</h3>
 <p><img src="pullup-pulldown-button.png" alt="Pull-up ve Pull-down Devre Şeması" width="600"></p>
 <p><img src="Devre.JPG" alt="Pull-up ve Pull-down Devresi" width="600"></p>
