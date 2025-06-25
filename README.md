@@ -6,4 +6,5 @@
 <ol>
   <li>Pulldown ve Pullup Butonları</li>
   <li>Kara Şimşek Led Uygulaması</li>
+  <li>Potansiyometre ile LED Parlaklığını Ayarlama</li>
 </ol>
