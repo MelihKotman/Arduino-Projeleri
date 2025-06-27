@@ -2,8 +2,8 @@
 
 <h1>Potansiyometre ile Parlaklık Ayarlama</h1>
 
-
-<p>Bu projede bir potansiyometre kullanarak LED'in parlaklığı manuel olarak ayarlanabilmektedir. Potansiyometreden okunan analog değer, Arduino'nun PWM çıkışına dönüştürülerek LED'in parlaklığını kontrol eder.</p>
+<p><strong>Proje Açıklaması:</strong><br>
+Bu projede bir potansiyometre kullanarak LED'in parlaklığı manuel olarak ayarlanabilmektedir. Potansiyometreden okunan analog değer, Arduino'nun PWM çıkışına dönüştürülerek LED'in parlaklığını kontrol eder.
 
 <h2>Malzemeler</h2>
 
