@@ -7,4 +7,5 @@
   <li>Pulldown ve Pullup Butonları</li>
   <li>Kara Şimşek Led Uygulaması</li>
   <li>Potansiyometre ile LED Parlaklığını Ayarlama</li>
+  <li>Potansiyometre ile RGB LED Rengi Değiştirme</li>
 </ol>
