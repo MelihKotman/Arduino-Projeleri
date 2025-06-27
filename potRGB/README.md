@@ -1,6 +1,6 @@
 <h1>Potansiyometre ile RGB LED Rengi Ayarlama</h1>
-
-<p>Bu uygulama ile potansiyometrelerden aldığımız analog sinyal değerlerini PWM kullanarak 0-255 aralığında dönüştürüp her bir RGB rengini ayrı ayrı kontrol edebiliriz. Kullandığımız RGB LED ortak anot veya ortak katot olabilir, bu devrede ortak katot kullanılmıştır. Ortak anotta direnç sayısımız artar.</p>
+<p><strong>Proje Açıklaması:</strong><br>
+Bu uygulama ile potansiyometrelerden aldığımız analog sinyal değerlerini PWM kullanarak 0-255 aralığında dönüştürüp her bir RGB rengini ayrı ayrı kontrol edebiliriz. Kullandığımız RGB LED ortak anot veya ortak katot olabilir, bu devrede ortak katot kullanılmıştır. Ortak anotta direnç sayısımız artar.
 
 <h2> Kullanılan Bileşenler</h2>
 <ul>
