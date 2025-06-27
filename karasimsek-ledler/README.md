@@ -1,7 +1,7 @@
 
 <h1>Kara Şimşek Led Uygulaması</h1>
 
-
+<p><strong>Proje Açıklaması:</strong><br>
 Bu proje, Arduino ile bir dizi LED’in hızlı ve ardışık olarak yanıp sönmesiyle gerçek bir “kara şimşek” (thunderbolt) efekti yaratmayı amaçlamaktadır.  
 Zamanlayıcı ve döngü kontrolü kullanarak ışık efektleri oluşturmayı öğrenmek için idealdir.
 
