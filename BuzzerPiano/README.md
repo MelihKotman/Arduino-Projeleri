@@ -7,7 +7,7 @@ Geçen Aktif Buzzer projesinde sadece tek bir ses tonunda çaldığını ama pas
 Bizde her bir notanın aşağıdaki gibi frekansını alarak <code>tone(Pin,Hertz,Duration)</code> fonksiyonundan frekansını
 çalacağı süresini ayarlayabiliyoruz. Bu şekilde her bir notaya karşılık bir buton ayarladık ve piyanomuzu oluşturduk.
 
-<p><img src = "png" alt ="Nota frekansları" width = "600"</p>
+<p><img src = "FrekansNota.png" alt ="Nota frekansları" width = "600"</p>
 
 <h2>Malzemeler</h2>
 
