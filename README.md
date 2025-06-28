@@ -9,4 +9,5 @@
   <li>Potansiyometre ile LED Parlaklığını Ayarlama</li>
   <li>Potansiyometre ile RGB LED Rengi Değiştirme</li>
   <li>Aktif Buzzer</li>
+  <li>Pasif Buzzer ile Piyano Tuşları</li>
 </ol>
