@@ -10,6 +10,6 @@ Bu uygulamada aktif bir buzzer (piezo) kullanılmıştır. Buzzer’ın iki baca
   <li>Breadboard (devreyi kurmak için)</li>
 </ul>
 <h2>Devre Simülasyon Linki</h2>
-<p>https://www.tinkercad.com/things/39BEm8GlqYA-aktifbuzzer?sharecode=4A1_Y1VkH3LJgPwgc0TYYxlh7R2Zfx0oFW5zUTMZjGc/p>
+<p>https://www.tinkercad.com/things/39BEm8GlqYA-aktifbuzzer?sharecode=4A1_Y1VkH3LJgPwgc0TYYxlh7R2Zfx0oFW5zUTMZjGc</p>
 <h3>Devre Şeması</h3>
 <p><img src="AktifBuzzer.png" alt="Aktif Buzzer Devre Şeması" width="600"></p>
