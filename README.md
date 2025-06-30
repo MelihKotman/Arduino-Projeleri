@@ -11,4 +11,5 @@
   <li>Aktif Buzzer</li>
   <li>Pasif Buzzer ile Piyano Tuşları</li>
   <li>Servo Motoru Potansiyometre ile Kontrol Etme</li>
+  <li>Servo Motoru Butonlarla Açısını Değiştirme</li>
 </ol>
