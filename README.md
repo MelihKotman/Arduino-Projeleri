@@ -5,6 +5,7 @@
 <h2>Projeler</h2>
 <ol>
   <li>Pulldown ve Pullup Butonları</li>
+  <li>Transistör ile LED Yakma</li>
   <li>Kara Şimşek Led Uygulaması</li>
   <li>Potansiyometre ile LED Parlaklığını Ayarlama</li>
   <li>Potansiyometre ile RGB LED Rengi Değiştirme</li>
