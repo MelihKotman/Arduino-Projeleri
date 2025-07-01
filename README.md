@@ -13,4 +13,6 @@
   <li>Pasif Buzzer ile Piyano Tuşları</li>
   <li>Servo Motoru Potansiyometre ile Kontrol Etme</li>
   <li>Servo Motoru Butonlarla Açısını Değiştirme</li>
+  <li>LDR ile LED Uygulamaları</li>
+  
 </ol>
