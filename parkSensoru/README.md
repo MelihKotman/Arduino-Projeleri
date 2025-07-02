@@ -18,5 +18,6 @@ Bu uygulamanın amacı, HC-SR04 ultrasonik mesafe sensörü kullanarak otomotiv 
 <h2>Devre Simülasyon Linki</h2>
 <p>https://www.tinkercad.com/things/jqhXMdXoAgE-parksensoru?sharecode=IbtyXrFlKZfp_NwU7pqverbUAmSqu8j4F22glkd_OrE</p>
 <h3>Devre Şeması</h3>
-<p><img src="parkSensoru.png" alt="Devre Şeması" width="600"></p>
+<p><img src="parkSensörü.png" alt="Devre Şeması" width="600"></p>
+<p><img src="ParkDevresi.JPG" alt="Devre" width="600"></p>
 
