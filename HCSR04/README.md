@@ -66,13 +66,6 @@ Mesafe = (Süre x Ses Hızı) / 2
 </table>
 
 <hr>
-Projemizde iki farklı senaryoyu ele alacağız:
-<p><strong>1. <code>pulseIn()</code> Kullanarak HC-SR04 </strong></p>
-Burada ilk once ses dalgasının süresini ölçüp ardından gerekli formül ile mesafeyi bulup ekrana yazdıracağız.
-
-<p><strong>2. <code>NewPing</code> Kütüphanesi Kullanarak HC-SR04</strong></p>
-NewPing kütüphanesi kullanarak daha hızlı ve daha güvenilir sonuçlar alarak daha minimal kod ile mesafeyi bulacağız.
-
 <h2> Kullanılan Bileşenler</h2>
 <ul>
   <li>1 x Arduino UNO </li>
