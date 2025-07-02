@@ -14,5 +14,6 @@
   <li>Servo Motoru Potansiyometre ile Kontrol Etme</li>
   <li>Servo Motoru Butonlarla Açısını Değiştirme</li>
   <li>LDR ile LED Uygulamaları</li>
+  <li>HC-SR04 Kullanimi</li>
   
 </ol>
