@@ -1,7 +1,7 @@
 <h1>Akıllı Bariyer</h1>
 
 <p><strong>Projenin Amacı:</strong><br>
-Bu proje, HC-SR04ultrasonik mesafe sensörü ve servo motor kullanarak yapılan bir akıllı bariyer sistemidir. Sistemin amacı, bariyer önüne yaklaşan aracı algılayarak bariyeri otomatik olarak açmak ve aracın geçişinden sonra bariyeri kapatmaktır.
+Bu proje, HC-SR04 ultrasonik mesafe sensörü ve servo motor kullanarak yapılan bir akıllı bariyer sistemidir. Sistemin amacı, bariyer önüne yaklaşan aracı algılayarak bariyeri otomatik olarak açmak ve aracın geçişinden sonra bariyeri kapatmaktır.
 
 - **Araç Algılama:** HC-SR04 ultrasonik sensör, bariyer önündeki mesafeyi sürekli ölçer. 
 - **Bariyer Kontrolü:** Ölçülen mesafe belirlenen eşik değerinin (örneğin 20 cm) altına düştüğünde servo motor bariyeri kaldırır (bariyer açılır).  
