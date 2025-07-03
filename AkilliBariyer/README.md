@@ -15,7 +15,7 @@ Bu proje, HC-SR04 ultrasonik mesafe sensörü ve servo motor kullanarak yapılan
   <li>1 x Arduino UNO </li>
   <li>1 x Ultrasonik Mesafe Ölçer(HC-SR04)</li>
   <li>2 x 220Ω Direnç </li>
-  <li>2 x LED</li>
+  <li>2 x LED(Biri kırmızı biri yeşil)</li>
   <li>1 x Servo Motor(SG90)</li>
   <li>Jumper kabloları</li>
   <li>Breadboard (devreyi kurmak için)</li>
