@@ -16,4 +16,5 @@
   <li>LDR ile LED Uygulamaları</li>
   <li>HC-SR04 Kullanımı</li>
   <li>HC-SR04 ile Park Sensörü</li>
+  <li>Akıllı Bariyer</li>
 </ol>
