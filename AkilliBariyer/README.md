@@ -8,7 +8,6 @@ Bu proje, HC-SR04 ultrasonik mesafe sensörü ve servo motor kullanarak yapılan
 - **Geçiş Sonrası Kapanma:** Araç geçtikten sonra mesafe tekrar eşik değerinin üzerine çıkınca servo motor bariyeri indirir (bariyer kapanır).  
 - **LED Göstergeler:** Bariyer durumu yeşil ve kırmızı LED'ler ile görsel olarak belirtilir. Yeşil LED bariyer açıkken, kırmızı LED bariyer kapalıyken yanar.
 
-## Kullanılan Donanımlar
 
 <h2> Kullanılan Bileşenler</h2>
 <ul>
