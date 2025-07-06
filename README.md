@@ -19,4 +19,5 @@
   <li>Akıllı Bariyer</li>
   <li>Radar Uygulaması</li>
   <li>PIR sensörü ile Hırsız Uyarı Uygulaması</li>
+  <li>PIR ve LDR Kullanarak Gece/Bahçe Lambası</li>
 </ol>
