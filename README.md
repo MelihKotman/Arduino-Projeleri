@@ -18,4 +18,5 @@
   <li>HC-SR04 ile Park Sensörü</li>
   <li>Akıllı Bariyer</li>
   <li>Radar Uygulaması</li>
+  <li>PIR sensörü ile Hırsız Uyarı Uygulaması</li>
 </ol>
