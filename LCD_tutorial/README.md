@@ -176,4 +176,5 @@ LCD'yi kullanırken klasik paralel 16 pinli olarak veya I2C modülü kullanarak 
 <li>Breadboard</li>
 
 <h3>Devre Fotoğrafı</h3>
-<img src="resim_dosyasi.jpg" alt="Alternatif metin" />
+<img src="StandartLCD.jpg" alt="LCD(Standart)" />
+<img src="I2C.jpg" alt="LCD(I2C)" />
