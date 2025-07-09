@@ -6,7 +6,7 @@
 Geçen Aktif Buzzer projesinde sadece tek bir ses tonunda çaldığını ama pasif buzzer'ın ise ses tonlarını ayarlayabildiğimizi söylemiştik.
 Bizde her bir notanın aşağıdaki gibi frekansını alarak <code>tone(Pin,Hertz,Duration)</code> fonksiyonundan frekansını
 çalacağı süresini ayarlayabiliyoruz. Bu şekilde her bir notaya karşılık bir buton ayarladık ve piyanomuzu oluşturduk.
-
+<p>Şekil 1: <em>Nota Frekansları ve Blok Sayıları</em></p>
 <p><img src = "FrekansNota.png" alt ="Nota frekansları" width = "600"</p>
 
 <h2>Malzemeler</h2>
@@ -22,5 +22,5 @@ Bizde her bir notanın aşağıdaki gibi frekansını alarak <code>tone(Pin,Hert
 <p>https://www.tinkercad.com/things/7fhQqzAjphF-buzzerpiano?sharecode=3HG2kGFZhTaT0iaI4S026Pw6JF2IYcONtrZbPHhiLvk</p>
 
 <h3>Devre Şeması ve Düzeneği</h3>
-<p>Şekil 1: <em>Devre şeması</em></p>
+<p>Şekil 2: <em>Devre şeması</em></p>
 <p><img src="Pianobuzz.png" alt="Devre Şeması" width="600"></p>
