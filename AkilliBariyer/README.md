@@ -23,7 +23,10 @@ Bu proje, HC-SR04 ultrasonik mesafe sensörü ve servo motor kullanarak yapılan
 <h2>Devre Simülasyon Linki</h2>
 <p>https://www.tinkercad.com/things/ksKfVfCEbvl-akillibariyer?sharecode=-z6SnN9_v7sqwPdiSxnUSrYGtGCsI4Nqv6N4olz03S4</p>
 <h3>Devre Şeması</h3>
+<p>Şekil 1: <em>Akıllı Bariyer Şeması</em></p>
 <p><img src="Barrier.png" alt="Devre Şeması" width="600"></p>
+<p>Şekil 2: <em>Akıllı Bariyer Açıkken</em></p>
 <p><img src="BarrierGO.JPG" alt="Devre" width="600"></p>
+<p>Şekil 3: <em>Akıllı Bariyer Kapalıyken</em></p>
 <p><img src="BarrierSTOP.JPG" alt="Devre" width="600"></p>
 
