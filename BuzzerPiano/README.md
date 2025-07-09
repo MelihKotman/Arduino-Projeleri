@@ -22,4 +22,5 @@ Bizde her bir notanın aşağıdaki gibi frekansını alarak <code>tone(Pin,Hert
 <p>https://www.tinkercad.com/things/7fhQqzAjphF-buzzerpiano?sharecode=3HG2kGFZhTaT0iaI4S026Pw6JF2IYcONtrZbPHhiLvk</p>
 
 <h3>Devre Şeması ve Düzeneği</h3>
+<p>Şekil 1: <em>Devre şeması</em></p>
 <p><img src="Pianobuzz.png" alt="Devre Şeması" width="600"></p>
