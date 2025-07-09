@@ -22,6 +22,9 @@ Biz de bugün, benzer mantıkla çalışan basit bir güvenlik düzeneği oluşt
 <p>https://www.tinkercad.com/things/dJQVG7cXWcH-hirsiz-uyari-uygulamasi?sharecode=WvNwDkSXDZKucuoYVPKqlSbp8TwxlhzU8u-zpBytVyY</p>
 
 <h3>Devre Şeması</h3>
+<p>Şekil 1: <em>Devre şeması</em></p>
 <p><img src="HirsizUyari.png" alt="Devre Bağlantısı" width="600"></p>
+<p>Şekil 2: <em>Hedef görülünce verilen tepki</em></p>
 <p><img src="HareketVAR.jpg" alt="Hedef görünce verilen tepki" width="600"></p>
+<p>Şekil 3: <em>Hedef yokken</em></p>
 <p><img src="HareketYOK.jpg" alt="Hedef görülmeyince verilen tepki" width="600"></p>
