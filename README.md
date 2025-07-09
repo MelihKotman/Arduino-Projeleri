@@ -21,4 +21,5 @@
   <li>PIR sensörü ile Hırsız Uyarı Uygulaması</li>
   <li>PIR ve LDR Kullanarak Gece/Bahçe Lambası</li>
   <li>LCD Uygulamaları</li>
+  <li>LCD ile Sayaç Yapma</li>
 </ol>
