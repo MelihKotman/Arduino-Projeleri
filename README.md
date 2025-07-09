@@ -56,8 +56,12 @@
   <li><strong>LCD Uygulamaları</strong><br>
       LCD ekranla yazı yazma, imleç, kaydırma gibi temel işlemler.
   </li>
-  <li><strong>LCD ile Sayaç Yapma</strong><br>
-      İki butonla LCD üzerinde sayıyı arttırıp azaltma.
+  <li><strong>LCD ile Hareket Sayacı Yapma</strong><br>
+  PIR sensör ile algılanan her hareket LCD ekranda görüntülenir ve toplam hareket sayısı anlık olarak güncellenir.
+  </li>
+  </li>
+  <li><strong>LCD ve PIR ile Hareket Sayacı Yapma</strong><br>
+      Hareket algılandığında LCD ekranında belirtmesi ve kaç hareket olduğunu göstermesidir
   </li>
 </ol>
 
