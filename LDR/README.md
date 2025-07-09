@@ -26,4 +26,5 @@ Burada ise LDR'nin ışık şiddetinden ötürü aldığı direnç değerini PWM
 <p>1. için https://www.tinkercad.com/things/aQIbKT2m7kK-ldrled?sharecode=xDlb9tes2JtNJSYDAJcaYPstalP9vruiZkzyB475Ze8</p>
 <p>2. için https://www.tinkercad.com/things/8LcuCOb17hQ-ldrparlaklik?sharecode=ss58-IC3nTk0Ms0dWmcNoT8JLUGku1M7u3SZDYBtxDo</p>
 <h3>Devre Şeması</h3>
+<p>Şekil 1: <em>Devre şeması</em></p>
 <p><img src="LDRLED.png" alt="Devre Şeması" width="600"></p>
