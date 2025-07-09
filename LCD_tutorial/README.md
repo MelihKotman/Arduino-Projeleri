@@ -167,6 +167,25 @@ LCD'yi kullanırken klasik paralel 16 pinli olarak veya I2C modülü kullanarak 
 </ul>
 
 
+>  **Dipnot:**  
+> Bu klasörde yer alan tüm örnekler, klasik **paralel bağlantı (LiquidCrystal)** kullanılarak hazırlanmıştır.  
+> Ancak aynı fonksiyonlar, `LiquidCrystal_I2C` kütüphanesi ile de benzer şekilde çalışır.  
+> I2C versiyon için sadece şu değişiklikler yeterlidir:
+> 
+> ```cpp
+> // Yerine:
+> #include <LiquidCrystal.h>
+> LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+> 
+> // Şunu kullanın:
+> #include <LiquidCrystal_I2C.h>
+> LiquidCrystal_I2C lcd(0x27, 16, 2); // I2C adresinize göre ayarlayın
+> lcd.init();
+> lcd.backlight();
+> ```
+>  
+> 
+
 <h2>Donanım Bileşenleri</h2>
 <li>1 x Arduino UNO</li>
 <li>1 x 10kΩ potansiyometre</li>
@@ -176,5 +195,7 @@ LCD'yi kullanırken klasik paralel 16 pinli olarak veya I2C modülü kullanarak 
 <li>Breadboard</li>
 
 <h3>Devre Fotoğrafı</h3>
+<p><em>Şekil 1: Standart Paralel LCD Bağlantısı</em></p>
 <img src="StandartLCD.png" alt="LCD(Standart)" />
+<p><em>Şekil 2: I2C Modüllü LCD Bağlantısı</em></p>
 <img src="I2C.png" alt="LCD(I2C)" />
