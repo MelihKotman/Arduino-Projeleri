@@ -18,4 +18,5 @@ Bu projede bir potansiyometre kullanarak LED'in parlaklığı manuel olarak ayar
 <p>https://www.tinkercad.com/things/bMcmtQJsuUb-potansiyoled?sharecode=hlGu-a8HeB3VcLhLs23wfoIgWij-3XfERPu0vNU34ao</p>
 
 <h3>Devre Şeması ve Düzeneği</h3>
+<p>Şekil 1: <em>Devre şeması</em></p>
 <p><img src="PotansiyoLED.png" alt="Devre Şeması" width="600"></p>
