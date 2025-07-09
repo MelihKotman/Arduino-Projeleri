@@ -77,4 +77,5 @@ Mesafe = (Süre x Ses Hızı) / 2
 <h2>Devre Simülasyon Linki</h2>
 <p>https://www.tinkercad.com/things/lluwgA0wFFm-hc-sr04?sharecode=GZbBQW1RaOWto74Ij2R7vtXimAdubqkYuvxRHrqbqXs</p>
 <h3>Devre Şeması</h3>
+<p>Şekil 1: <em>Devre şeması</em></p>
 <p><img src="HCSR04.png" alt="Devre Şeması" width="600"></p>
