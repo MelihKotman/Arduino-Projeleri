@@ -27,3 +27,14 @@
 
 <h2>Devre Görselleri</h2>
 
+<p><em>Şekil 1: <strong>Settings</strong> ekranı</em></p>
+<img src="settingsPot.JPG" alt="Settings menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
+
+<p><em>Şekil 2: <strong>About</strong> ekranı</em></p>
+<img src="aboutPot.JPG" alt="About menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
+
+<p><em>Şekil 3: <strong>Time</strong> ekranı</em></p>
+<img src="timePot.JPG" alt="Time menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
+
+<p><em>Şekil 4: <strong>Exit</strong> ekranı</em></p>
+<img src="exitPot.JPG alt="Exit menüsü" style="max-width:100%; height:auto;" />
