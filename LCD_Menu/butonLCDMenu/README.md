@@ -28,13 +28,13 @@
 <h2>Devre Görselleri</h2>
 
 <p><em>Şekil 1: <strong>Settings</strong> ekranı</em></p>
-<img src="" alt="Settings menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
+<img src="settingsBut.JPG" alt="Settings menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
 
 <p><em>Şekil 2: <strong>About</strong> ekranı</em></p>
-<img src="" alt="About menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
+<img src="aboutBut.JPG" alt="About menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
 
 <p><em>Şekil 3: <strong>Time</strong> ekranı</em></p>
-<img src="" alt="Time menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
+<img src="timeBut.JPG" alt="Time menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
 
 <p><em>Şekil 4: <strong>Exit</strong> ekranı</em></p>
-<img src="" alt="Exit menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
+<img src="exitBut.JPG" alt="Exit menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
