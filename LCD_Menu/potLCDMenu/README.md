@@ -37,4 +37,4 @@
 <img src="timePot.JPG" alt="Time menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
 
 <p><em>Şekil 4: <strong>Exit</strong> ekranı</em></p>
-<img src="exitPot.JPG alt="Exit menüsü" style="max-width:100%; height:auto;" />
+<img src="exitPot.JPG" alt="Time menüsü" style="max-width:100%; height:auto; display:block; margin-bottom: 20px;" />
