@@ -63,6 +63,10 @@
   <li><strong>LCD ve PIR ile Hareket Sayacı Yapma</strong><br>
       Hareket algılandığında LCD ekranında belirtmesi ve kaç hareket olduğunu göstermesidir
   </li>
+  <li>
+  <strong>Buton ve Potansiyometre ile LCD Menü Sistemi Yapma</strong><br>
+  LCD üzerinde menü seçenekleri arasında butonlarla veya potansiyometreyle gezip, bir seçim butonuyla işlem seçilmesini sağlayan sistemdir.
+</li>
 </ol>
 
 <hr>
