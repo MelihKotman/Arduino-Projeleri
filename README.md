@@ -71,6 +71,11 @@
   <li><strong>DHT 11 Sensörüyle Ortamın Sıcaklığını ve Nem Değerini Ölçme</strong><br>
       Ortamın Sıcaklık ve nem değerlerini bize anlık olarak bildiren sistemdir
   </li>
+   </li>
+  <li>
+  <strong>DHT11 Sensöründen Alınan Sıcaklık ve Nem Verilerinin LCD Ekranda Gösterimi</strong><br>
+  Bu sistem, DHT11 sensörü ile ortam sıcaklığı ve nem değerlerini ölçerek, 16x2 LCD ekran üzerinde anlık olarak kullanıcıya gösterir.
+</li>
 </ol>
 
 <hr>
