@@ -105,7 +105,7 @@
 <ul>
   <li>1 x Arduino UNO</li>
   <li>1 x DHT11 (4 bacaklı veya 3 bacaklı)</li>
-  <li>3 x 10kΩ direnç (DHT11(4 bacaklı) için pull-down bağlantısı)</li>
+  <li>1 x 10kΩ direnç (DHT11(4 bacaklı) için pull-down bağlantısı)</li>
   <li>Jumper kablolar</li>
   <li>Breadboard</li>
 </ul>
