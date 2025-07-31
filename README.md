@@ -67,6 +67,10 @@
   <strong>Buton ve Potansiyometre ile LCD Menü Sistemi Yapma</strong><br>
   LCD üzerinde menü seçenekleri arasında butonlarla veya potansiyometreyle gezip, bir seçim butonuyla işlem seçilmesini sağlayan sistemdir.
 </li>
+   </li>
+  <li><strong>DHT 11 Sensörüyle Ortamın Sıcaklığını ve Nem Değerini Ölçme</strong><br>
+      Ortamın Sıcaklık ve nem değerlerini bize anlık olarak bildiren sistemdir
+  </li>
 </ol>
 
 <hr>
