@@ -1,4 +1,4 @@
-<h1>DHT11 Sensörüyle Ortamın Sıcaklığını ve Nem Değerlerini Ölçme/h1>
+<h1>DHT11 Sensörüyle Ortamın Sıcaklığını ve Nem Değerlerini Ölçme</h1>
 
 <h2>DHT Sensörleri Hakkında</h2>
 
